@@ -1,0 +1,113 @@
+.body{
+    font: 20px "Monserrat", sans-serif;
+    line-height:1.8;
+    color:#f5f6f7;
+}
+.background1{
+    background: #536DFE;
+    color:#fff;
+		margin-top:16px;
+
+
+}
+#name{font-family: 'Pacifico', cursive;
+
+	font-size:50px;letter-spacing:0.1em;}
+#enviar{font-family: 'Pacifico', cursive;
+	text-transform:capitalize;
+	font-size:32px;}
+#data{font-family: 'Lobster', cursive;font-size:65px;}
+#folio{font-family: 'Lobster', cursive;font-size:65px;letter-spacing:0.1em;}
+.contact{font-family: 'Lobster', cursive;font-size:65px;}
+.area{font-family: 'Dosis', cursive; font-size:95px;}
+.textfoo{font-family: 'Lobster', cursive; font-size:35px;letter-spacing:0.1em;}
+.background2{
+    background:#00BFA5;
+    color:#fff;
+}
+.background3{
+    background:#FFF;
+    color:#555;
+}
+.background4{
+    background:#37474F;
+    color:#ccc;
+}
+.container-fluid{
+    padding-top:80px;
+    padding-bottom:80px;
+}
+.navbar{
+    padding-top:33px;
+    padding-bottom: 15px;
+    border:0;
+    border-radius: 0;
+    border-bottom: 0;
+    font-size: 14px;
+    letter-spacing: 5px;
+
+    font-weight: bold;
+}
+.navbar li a:hover{
+    color:dodgerblue!important;
+}
+.margin{
+    margin-bottom:45px;
+}
+.project1{
+	margin-left:0 auto;
+	height:310px;
+	width:auto;
+	background-color:#ccc;
+	margin-top:80px;
+	padding-bottom:4px;
+	padding:50px;
+}
+input[type="text"]{
+	padding:28px;
+
+}
+input[type="email"]{
+	padding:28px;
+	font-family: 'Pacifico', cursive;font-size:45px;
+
+}
+button[type="submit"]{
+	text-shadow:12px;
+	color:#ccc;
+	padding:16px;
+	text-transform:uppercase;
+	background-color:#536DFE;
+}
+button[type="submit"]:hover{
+	text-shadow:12px;
+	color:#white;
+	padding:16px;
+	text-transform:uppercase;
+	background-color:#EF5350;
+	border:none;
+
+
+}
+.area{text-shadow:12px;
+	color:#ccc;
+	padding:16px;
+	text-transform:uppercase;
+	background-color:#F44336;}
+li{
+	list-style:none;
+}
+a{
+	text-align:left;
+
+}
+li a:hover{text-decoration:none;}
+li{
+	display:inline;
+	padding-left:18px;
+}
+.footerto{
+    background:#616161;
+    color:#fff;
+
+}
